@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/viditkanchan26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="viditkanchan26" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://linkedin.com/in/vidit-kanchan-23b8bb25b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/vidit-kanchan-23b8bb25b/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/viditkanchan_26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/viditkanchan_26/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vidit-kanchan-23b8bb25b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidit-kanchan-23b8bb25b" height="30" width="40" /></a>
+<a href="https://instagram.com/viditkanchan_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viditkanchan_26" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viditkan26&show_icons=true&locale=en" alt="viditkan26" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viditkan26&" alt="viditkan26" /></p>
-
